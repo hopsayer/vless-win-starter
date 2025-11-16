@@ -16,7 +16,7 @@
       "tag": "proxy",
       "server": "your-server.com",
       "server_port": 443,
-      "uuid": "YOUR-UUID-HERE",
+      "uuid": "YOUR-UUID-HERE, example: 12345678-1234-1234-1234-123456789abc",
       "flow": "xtls-rprx-vision",
       "tls": {
         "enabled": true,
