@@ -12,7 +12,7 @@ Simple one-click VLESS proxy starter for Windows using sing-box.
 ## Requirements
 
 - Windows 10 or newer
-- Internet connection for first run (obviously)
+- Internet connection
 
 ## Needed folder structure
 
