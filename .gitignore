@@ -1,0 +1,13 @@
+# User configuration with credentials
+config.json
+
+# sing-box files
+sing-box.exe
+sing-box-*.zip
+
+# Logs
+*.log
+
+# Windows temporary files
+Thumbs.db
+desktop.ini
