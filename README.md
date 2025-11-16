@@ -35,7 +35,7 @@ internet-enabler/
 
 ## How to use
 
-I. Download this repository or files-as-archive.zip or just files separately: `config-filled-fake.json` and `prepare-and-start.bat`
+I. Download *this repository* or `files-as-archive.zip` or just files separately: `config-filled-fake.json` and `prepare-and-start.bat`
 
 II. Rename `config-filled-fake.json` to `config.json`
 
