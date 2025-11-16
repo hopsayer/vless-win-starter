@@ -7,7 +7,7 @@
     {
       "type": "mixed",
       "listen": "127.0.0.1",
-      "listen_port": 2081
+      "listen_port": 1084
     }
   ],
   "outbounds": [
