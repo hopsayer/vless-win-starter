@@ -66,6 +66,9 @@ echo Disabling system proxy...
 reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v ProxyEnable /t REG_DWORD /d 0 /f >nul
 reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v ProxyServer /f >nul 2>&1
 
+rem Small delay to let system proxy get disabled
+timeout /t 2 /nobreak >nul
+
 rem Kill sing-box
 echo Stopping sing-box...
 taskkill /im sing-box.exe /f >nul 2>&1
