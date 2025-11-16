@@ -46,4 +46,3 @@ The other way is to import your VLESS subscription link into Nekoray (can be dow
 4. Run `prepare-and-start.bat`, preferably as Admin
 
 ![GitHub views](https://komarev.com/ghpvc/?username=hopsayer&repo=vless-win-starter-simple&color=green&style=flat-square)
-![Profile views](https://komarev.com/ghpvc/?username=hopsayer&color=blue&style=flat-square)
