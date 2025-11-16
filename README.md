@@ -28,6 +28,7 @@ I. Download this repository or just files separately: config-template.json and p
 
 II. Rename `config-template.json` to `config.json`
 
+---
 III. Fill `config.json` with your server details:
 
 Get your VLESS key. 
@@ -60,7 +61,7 @@ The other way is to use Nekoray:
 3. Export ready VLESS config from it: `Share` > `Export sing-box config (Ctrl+E)`
    You will get config.json too, but not so manually. 
 
-
+---
 
 IV. When config.json is in place and filled, run `prepare-and-start.bat`, preferably as Admin
 
